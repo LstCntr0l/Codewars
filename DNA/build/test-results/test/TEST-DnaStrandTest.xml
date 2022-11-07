@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DnaStrandTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-11-07T12:24:31" hostname="LAPTOP-5751OJF4" time="0.022">
+  <properties/>
+  <testcase name="test01()" classname="DnaStrandTest" time="0.017"/>
+  <testcase name="test02()" classname="DnaStrandTest" time="0.001"/>
+  <testcase name="test03()" classname="DnaStrandTest" time="0.001"/>
+  <testcase name="test04()" classname="DnaStrandTest" time="0.001"/>
+  <testcase name="test05()" classname="DnaStrandTest" time="0.0"/>
+  <testcase name="test06()" classname="DnaStrandTest" time="0.0"/>
+  <testcase name="test07()" classname="DnaStrandTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
