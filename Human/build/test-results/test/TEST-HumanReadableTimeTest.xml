@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HumanReadableTimeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-07T11:55:45" hostname="LAPTOP-5751OJF4" time="0.034">
+  <properties/>
+  <testcase name="Tests()" classname="HumanReadableTimeTest" time="0.034"/>
+  <system-out><![CDATA[Running tests...
+
+Running random tests...
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
