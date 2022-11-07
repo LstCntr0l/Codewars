@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-11-07T12:15:55" hostname="LAPTOP-5751OJF4" time="0.041">
+  <properties/>
+  <testcase name="randomTests()" classname="SolutionTest" time="0.028"/>
+  <testcase name="exampleTest1()" classname="SolutionTest" time="0.001"/>
+  <testcase name="exampleTest2()" classname="SolutionTest" time="0.001"/>
+  <testcase name="exampleTest3()" classname="SolutionTest" time="0.001"/>
+  <testcase name="extendedTest1()" classname="SolutionTest" time="0.001"/>
+  <testcase name="extendedTest2()" classname="SolutionTest" time="0.001"/>
+  <testcase name="extendedTest3()" classname="SolutionTest" time="0.001"/>
+  <testcase name="extendedTest4()" classname="SolutionTest" time="0.001"/>
+  <testcase name="extendedTest5()" classname="SolutionTest" time="0.001"/>
+  <testcase name="extendedTest6()" classname="SolutionTest" time="0.0"/>
+  <system-out><![CDATA[9
+11
+13
+15
+19
+21
+21
+47
+49
+49
+59
+61
+65
+71
+71
+85
+87
+1
+19
+31
+31
+35
+37
+53
+57
+59
+63
+65
+77
+83
+93
+95
+97
+99
+19
+23
+33
+63
+39
+55
+55
+1
+3
+13
+17
+25
+43
+47
+61
+63
+67
+67
+71
+73
+73
+87
+87
+91
+93
+5
+9
+21
+21
+23
+35
+45
+45
+49
+51
+51
+63
+75
+83
+87
+87
+91
+91
+11
+19
+57
+57
+63
+67
+15
+3
+7
+13
+23
+25
+53
+79
+83
+99
+17
+23
+31
+39
+47
+49
+51
+61
+65
+65
+73
+85
+85
+89
+95
+97
+1
+3
+5
+1
+3
+5
+1
+3
+5
+11
+1
+5
+11
+37
+1
+1
+5
+11
+11
+111
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
