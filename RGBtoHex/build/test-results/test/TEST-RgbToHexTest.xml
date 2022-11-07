@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RgbToHexTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-07T12:06:05" hostname="LAPTOP-5751OJF4" time="0.023">
+  <properties/>
+  <testcase name="basicTests()" classname="RgbToHexTest" time="0.021"/>
+  <testcase name="randomTests()" classname="RgbToHexTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
