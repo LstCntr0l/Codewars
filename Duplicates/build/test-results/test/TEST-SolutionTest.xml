@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-07T12:10:08" hostname="LAPTOP-5751OJF4" time="0.026">
+  <properties/>
+  <testcase name="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZReturnsTwentySix()" classname="SolutionTest" time="0.017"/>
+  <testcase name="emptyReturnsZero()" classname="SolutionTest" time="0.001"/>
+  <testcase name="IndivisibilitiesReturnsTwo()" classname="SolutionTest" time="0.0"/>
+  <testcase name="abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzReturnsTwentySix()" classname="SolutionTest" time="0.0"/>
+  <testcase name="abcdeaBReturnsTwo()" classname="SolutionTest" time="0.001"/>
+  <testcase name="abcdeaaReturnsOne()" classname="SolutionTest" time="0.001"/>
+  <testcase name="abcdefghijklmnopqrstuvwxyzaaAbReturnsTwo()" classname="SolutionTest" time="0.001"/>
+  <testcase name="abcdefghijklmnopqrstuvwxyzReturnsZero()" classname="SolutionTest" time="0.001"/>
+  <testcase name="abcdeReturnsZero()" classname="SolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
