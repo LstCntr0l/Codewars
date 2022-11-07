@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BouncingBallTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-11-07T12:13:52" hostname="LAPTOP-5751OJF4" time="0.039">
+  <properties/>
+  <testcase name="test()" classname="BouncingBallTest" time="0.026"/>
+  <testcase name="test0()" classname="BouncingBallTest" time="0.001"/>
+  <testcase name="test1()" classname="BouncingBallTest" time="0.0"/>
+  <testcase name="test2()" classname="BouncingBallTest" time="0.001"/>
+  <testcase name="test3()" classname="BouncingBallTest" time="0.002"/>
+  <testcase name="test4()" classname="BouncingBallTest" time="0.001"/>
+  <testcase name="test5()" classname="BouncingBallTest" time="0.001"/>
+  <testcase name="test6()" classname="BouncingBallTest" time="0.0"/>
+  <testcase name="test7()" classname="BouncingBallTest" time="0.0"/>
+  <testcase name="test8()" classname="BouncingBallTest" time="0.0"/>
+  <testcase name="test9()" classname="BouncingBallTest" time="0.001"/>
+  <system-out><![CDATA[Random test 0
+92.0
+12.88
+1.8032000000000004
+Random test 1
+21.0
+7.35
+2.5725
+Random test 2
+Random test 3
+14.0
+3.36
+Random test 4
+144.0
+86.39999999999999
+51.839999999999996
+31.103999999999996
+18.662399999999998
+11.197439999999999
+6.718463999999999
+4.031078399999999
+2.4186470399999993
+1.4511882239999996
+Random test 5
+21.0
+7.35
+2.5725
+Random test 6
+28.0
+21.0
+15.75
+11.8125
+8.859375
+6.64453125
+4.9833984375
+3.737548828125
+2.80316162109375
+Random test 7
+24.0
+9.36
+3.6504
+Random test 8
+67.0
+40.199999999999996
+24.119999999999997
+14.471999999999998
+8.683199999999998
+5.2099199999999986
+3.125951999999999
+Random test 9
+17.0
+12.75
+9.5625
+7.171875
+5.37890625
+4.0341796875
+3.025634765625
+2.26922607421875
+1.7019195556640625
+2.0
+3.0
+1.98
+30.0
+19.8
+13.068000000000001
+8.624880000000001
+5.692420800000001
+3.756997728000001
+2.479618500480001
+1.6365482103168008
+30.0
+22.5
+16.875
+12.65625
+9.4921875
+7.119140625
+5.33935546875
+4.0045166015625
+3.003387451171875
+2.2525405883789062
+1.6894054412841797
+30.0
+12.0
+40.0
+16.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
