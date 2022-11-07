@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JosephusSurvivorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-11-07T11:27:43" hostname="LAPTOP-5751OJF4" time="0.064">
+  <properties/>
+  <testcase name="test10()" classname="JosephusSurvivorTest" time="0.019"/>
+  <testcase name="randomTests()" classname="JosephusSurvivorTest" time="0.031"/>
+  <testcase name="test1()" classname="JosephusSurvivorTest" time="0.001"/>
+  <testcase name="test2()" classname="JosephusSurvivorTest" time="0.001"/>
+  <testcase name="test3()" classname="JosephusSurvivorTest" time="0.001"/>
+  <testcase name="test4()" classname="JosephusSurvivorTest" time="0.001"/>
+  <testcase name="test5()" classname="JosephusSurvivorTest" time="0.001"/>
+  <testcase name="test6()" classname="JosephusSurvivorTest" time="0.0"/>
+  <testcase name="test7()" classname="JosephusSurvivorTest" time="0.001"/>
+  <testcase name="test8()" classname="JosephusSurvivorTest" time="0.001"/>
+  <testcase name="test9()" classname="JosephusSurvivorTest" time="0.0"/>
+  <system-out><![CDATA[Testing where n = 300 and k = 300
+Testing where n = 4843 and k = 740
+Testing where n = 199 and k = 895
+Testing where n = 1952 and k = 238
+Testing where n = 4502 and k = 2380
+Testing where n = 1269 and k = 866
+Testing where n = 2498 and k = 568
+Testing where n = 4178 and k = 1008
+Testing where n = 3205 and k = 4426
+Testing where n = 401 and k = 2584
+Testing where n = 3535 and k = 3255
+Testing where n = 3399 and k = 1085
+Testing where n = 2329 and k = 2476
+Testing where n = 579 and k = 3356
+Testing where n = 165 and k = 558
+Testing where n = 2751 and k = 718
+Testing where n = 2993 and k = 2169
+Testing where n = 564 and k = 4163
+Testing where n = 648 and k = 3021
+Testing where n = 794 and k = 3968
+Testing where n = 2000 and k = 827
+Testing where n = 4548 and k = 3443
+Testing where n = 2539 and k = 2545
+Testing where n = 1186 and k = 1003
+Testing where n = 917 and k = 4105
+Testing where n = 2552 and k = 782
+Testing where n = 460 and k = 43
+Testing where n = 4972 and k = 3041
+Testing where n = 3774 and k = 4271
+Testing where n = 4493 and k = 3561
+Testing where n = 1156 and k = 435
+Testing where n = 3350 and k = 3778
+Testing where n = 4091 and k = 1547
+Testing where n = 74 and k = 2152
+Testing where n = 2499 and k = 1973
+Testing where n = 3642 and k = 4453
+Testing where n = 3889 and k = 4082
+Testing where n = 178 and k = 670
+Testing where n = 3719 and k = 968
+Testing where n = 721 and k = 2183
+Testing where n = 2099 and k = 3976
+Testing where n = 7 and k = 3
+Testing where n = 11 and k = 19
+Testing where n = 40 and k = 3
+Testing where n = 14 and k = 2
+Testing where n = 100 and k = 1
+Testing where n = 1 and k = 300
+Testing where n = 2 and k = 300
+Testing where n = 5 and k = 300
+Testing where n = 7 and k = 300
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
