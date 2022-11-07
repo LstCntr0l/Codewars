@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KataTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-11-07T11:42:41" hostname="LAPTOP-5751OJF4" time="0.04">
+  <properties/>
+  <testcase name="testRandomWithTriples()" classname="KataTest" time="0.022"/>
+  <testcase name="test10()" classname="KataTest" time="0.003"/>
+  <testcase name="testRandomNoTriples()" classname="KataTest" time="0.002"/>
+  <testcase name="test0()" classname="KataTest" time="0.001"/>
+  <testcase name="test1()" classname="KataTest" time="0.001"/>
+  <testcase name="test2()" classname="KataTest" time="0.001"/>
+  <testcase name="test3()" classname="KataTest" time="0.0"/>
+  <testcase name="test4()" classname="KataTest" time="0.0"/>
+  <testcase name="test5()" classname="KataTest" time="0.0"/>
+  <testcase name="test6()" classname="KataTest" time="0.0"/>
+  <testcase name="test7()" classname="KataTest" time="0.0"/>
+  <testcase name="test8()" classname="KataTest" time="0.0"/>
+  <testcase name="test9()" classname="KataTest" time="0.0"/>
+  <system-out><![CDATA[Score must be 700:
+Score must be 250:
+Score must be 0:
+Score must be 1000:
+Score must be 50:
+Score must be 250:
+Score must be 1100:
+Score must be 450:
+Score must be 1150:
+Score must be 0:
+Score must be 350:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
